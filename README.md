@@ -1,3 +1,18 @@
+# 学习 Vue2.x 的虚拟 dom  vnode diff
+
+* 1. ./src/package/h.ts   了解 vnode  
+* 2. ./src/package/init.ts   使用 vnode 对比 新 旧 vnode  
+
+> 主要函数  
+> patchVnode  
+> addVnodes removeVnodes  
+> updateChildren 
+
+
+以下是 Snabbdom 官方使用文档以及说明
+
+
+
 <img alt="Snabbdom" src="readme-title.svg" width="356px">
 
 A virtual DOM library with focus on simplicity, modularity, powerful features
